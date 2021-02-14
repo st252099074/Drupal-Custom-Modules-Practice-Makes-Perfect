@@ -1,0 +1,6 @@
+login_check:
+  path: /abba
+  defaults:
+    _controller: Drupal\login_check\Controller\login_checkController::helloWorld
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,6 @@
+user_info.content:
+    path: /whoami
+    defaults:
+        _controller: Drupal\user_info\Controller\user_info_controller::whoami
+    requirements:
+        _permission: 'access content'

@@ -1,0 +1,15 @@
+<?php
+
+
+class maintenancemode_check {
+
+   public $modeStatus = 'On';
+
+   public function checkModeStatus($modeStatus){
+
+
+     \Drupal::logger('maintenancemode_check')->notice($modeStatus);
+   }
+
+
+}

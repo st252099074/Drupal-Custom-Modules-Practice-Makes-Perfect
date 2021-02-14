@@ -1,0 +1,6 @@
+name: Read the user info
+type: module
+description: Can you create a controller that displays the name of the currently logged in user on the page at /whoami?
+package: tshi modules
+core: 8.x
+core_version_requirement: ^8 || ^9

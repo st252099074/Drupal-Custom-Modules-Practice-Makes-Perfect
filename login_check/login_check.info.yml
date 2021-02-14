@@ -1,0 +1,5 @@
+name: Login Status Check
+type: module
+description: "Login Status Check with Log Service"
+package: Custom
+core: 8.x

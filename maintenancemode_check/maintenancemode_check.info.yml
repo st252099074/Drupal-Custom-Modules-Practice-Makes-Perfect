@@ -1,0 +1,6 @@
+name: Check if Drupal in Maintenancemode
+type: module
+description:  Playing with the Maintenancemode and Event Subscriber
+package: tshi modules
+core: 8.x
+core_version_requirement: ^8 || ^9
